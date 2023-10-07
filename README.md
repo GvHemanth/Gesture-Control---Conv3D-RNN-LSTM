@@ -1,7 +1,7 @@
 # Gesture-Control---Conv3D-RNN-LSTM
-# Smart TV Gesture Recognition
+## Smart TV Gesture Recognition
 
-![Smart TV Gesture Recognition](images/smart_tv.jpg)
+![Smart TV Gesture Recognition]([images/smart_tv.jpg](https://miro.medium.com/v2/resize:fit:609/1*_cO6HwEoNYLzTjIqDLUpJw.png))
 
 ## Problem Statement
 
